@@ -1,0 +1,5 @@
+// links to my github and travis!
+//Sofie Lange
+
+https://github.com/sofielange98/CU-CSCI3308-CIPractice
+https://travis-ci.com/sofielange98/CU-CSCI3308-CIPractice
